@@ -5,4 +5,4 @@
 0.05,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.38614226,3.119806024
 0.1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.378504211,2.692876491
 0.5,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.395057717,5.54590429
-full,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.392557673,6.361979668
+1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.392557673,6.361979668
