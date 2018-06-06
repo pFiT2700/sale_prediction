@@ -6,3 +6,10 @@
 0.1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.378504211,2.692876491
 0.5,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.395057717,5.54590429
 1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,LinearRegression,0.392557673,6.361979668
+0.001,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.021294719,0.045144804
+0.005,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.05194584,0.250021289
+0.01,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.06523035,0.298475688
+0.05,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.105541032,0.719320804
+0.1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.123435291,1.536262922
+0.5,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.16192854,2.862656354
+1,"shop_id(OH), item_price, item_category_id(OH)",item_cnt_day,RandomForestClassifier,0.179515804,1.986432799
